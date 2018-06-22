@@ -10,7 +10,7 @@ Todos los dados y complementos están diseñados en Tinkercad para que los alumn
 
 [Enlace a Tinkercad](https://www.tinkercad.com/things/4HDoMNVHfnd-dados-programacion/)
 
-Escornabot es robot libre que puedes construir tu mismo. Puedes encontrar más información en su [web](http://wwww.escornabot.com)
+Escornabot es robot libre que puedes construir tu mismo. Puedes encontrar más información en su [web](http://www.escornabot.com)
 
 ## Dado de Movimiento (Color Azul)
 
@@ -28,7 +28,7 @@ Gracias a este dado realizaremos condicionales, repeticiones o esperas. Sus cara
 
 ![Dado-matematicas](images/Dado-matematicas.png)
 
-Por ahora tenemos 2 dados en esta sección, un dado de 10 caras para poder crear números y usarlo para crear pequeñas funciones junto al dado de lógica o complementando a las repeticiones para saber cuantas queremos realizar por ejemplo. Puedes usar un dado de 10 caras o imprimir alguno que encontrarás en [Thingiverse](http://wwww.thingiverse.com) por ejemplo.
+Por ahora tenemos 2 dados en esta sección, un dado de 10 caras para poder crear números y usarlo para crear pequeñas funciones junto al dado de lógica o complementando a las repeticiones para saber cuantas queremos realizar por ejemplo. Puedes usar un dado de 10 caras o imprimir alguno que encontrarás en [Thingiverse](http://www.thingiverse.com) por ejemplo.
 
 ![Dado-logica](images/Dado-logica.png)
 
