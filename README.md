@@ -10,7 +10,7 @@ Todos los dados y complementos están diseñados en Tinkercad para que los alumn
 
 [Enlace a Tinkercad](https://www.tinkercad.com/things/4HDoMNVHfnd-dados-programacion/)
 
-Escornabot es robot libre que puedes construir tu mismo. Puedes encontrar más información en su [web](http://www.escornabot.com)
+Escornabot es un proyecto de un robot libre que puedes construir tu mismo e imprimir sus piezas en 3D. Puedes encontrar más información en su [web](http://www.escornabot.com)
 
 ## Dado de Movimiento (Color Azul)
 
@@ -18,27 +18,35 @@ Escornabot es robot libre que puedes construir tu mismo. Puedes encontrar más i
 
 Con este dado podremos realizar movimientos básicos y giros. En sus caras podemos encontrar las siguientes acciones: Adelante, Atrás, Derecha, Izquierda, Ir y el logo de Escornabot.
 
+[Descargar Dado movimiento](https://github.com/laescuelamaker/Dados_Programacion/blob/master/STL/Dado-movimientov2.stl)
+
 ## Dado de Control y Condicionales
 
 ![Dado-Control](images/Dado-control.png)
 
 Gracias a este dado realizaremos condicionales, repeticiones o esperas. Sus caras contienen: Si, Si no, Esperar, Siempre, Repetir y la palabra Maker ;)
 
+[Descargar Dado de Control](https://github.com/laescuelamaker/Dados_Programacion/blob/master/STL/Dado-Controlv2.stl)
+
 ## Dados de Lógica y Matemáticas
 
 ![Dado-matematicas](images/Dado-matematicas.png)
 
-Por ahora tenemos 2 dados en esta sección, un dado de 10 caras para poder crear números y usarlo para crear pequeñas funciones junto al dado de lógica o complementando a las repeticiones para saber cuantas queremos realizar por ejemplo. Puedes usar un dado de 10 caras o imprimir alguno que encontrarás en [Thingiverse](http://www.thingiverse.com) por ejemplo.
+Por ahora tenemos 2 dados en esta sección, un dado de 10 caras para poder crear números y usarlo para crear pequeñas funciones junto al dado de lógica o complementando a las repeticiones para saber cuantas queremos realizar por ejemplo. Puedes usar un dado de 10 caras o imprimir alguno como [este por ejemplo](https://www.thingiverse.com/thing:3018)
 
 ![Dado-logica](images/Dado-logica.png)
 
 En el otro dado encontramos los comparadores lógicos mayor que, menor que, mayor o igual que, menor o igual que, igual y distinto
+
+[Descargar Dado lógico](https://github.com/laescuelamaker/Dados_Programacion/blob/master/STL/Dado-Logicav2.stl)
 
 ## Dado de Sensores
 
 ![Dado-sensores](images/Dado-sensores.png)
 
 Podemos encontrar distintos valores que podemos tomar con sensores básicos. En sus caras podemos encontrar Distancia, Temp (Temperatura), Luz, Sonido, Tocando y Color. Podemos usarlos en combinación con el resto de dados para crear instrucciones del tipo: Si distancia es menor que 4 (cm) ve para atrás y gira a la izquierda
+
+[Descargar Dado Sensores](https://github.com/laescuelamaker/Dados_Programacion/blob/master/STL/Dado-Sensoresv2.stl)
 
 
 
