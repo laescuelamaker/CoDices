@@ -8,27 +8,28 @@ Seguiremos la lógica de colores que usan programas como Scratch para que les re
 
 Puedes ver el modelo 3D de cada uno de los dados entrando en el enlace de Thingiverse [AQUÍ](https://www.thingiverse.com/thing:2980268)
 
-Todos los dados y complementos están diseñados en Tinkercad para que los alumnos puedan ver de forma fácil cómo están construidos y puedan modificarlos creando sus propios dados personalizados.
+Todos los dados y complementos han sido diseñados en Tinkercad para que los alumnos puedan ver de forma fácil cómo están construidos y puedan modificarlos creando sus propios dados personalizados.
 
+Creado por [@anlobarri](https://www.twitter.com/anlobarri) bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [Enlace a Tinkercad](https://www.tinkercad.com/things/iE5ETT8xtZK-codices)
 
 Escornabot es un proyecto robot libre que puedes construir tu mismo e imprimir sus piezas en 3D. Puedes encontrar más información en su [web](http://www.escornabot.com)
 
 ## Índice
-+ Conoce los CoDices
-  - Dado de Movimiento
-  - Dado de Control
-  - Dado de Matemáticas
-  - Dado de Lógica
-  - Dado de Números
-  - Dado de Sensores
++ [Conoce los CoDices](https://github.com/laescuelamaker/CoDices#conoce-los-codices)
+  - [Dado de Movimiento](https://github.com/laescuelamaker/CoDices#dado-de-movimiento)
+  - [Dado de Control](https://github.com/laescuelamaker/CoDices#dado-de-control)
+  - [Dado de Matemáticas](https://github.com/laescuelamaker/CoDices#dado-de-matem%C3%A1ticas)
+  - [Dado de Lógica](https://github.com/laescuelamaker/CoDices#dado-de-l%C3%B3gica)
+  - [Dado de Números](https://github.com/laescuelamaker/CoDices#dado-de-n%C3%BAmeros)
+  - [Dado de Sensores](https://github.com/laescuelamaker/CoDices#dado-de-sensores)
 
 
-+ Actividades Unplugged (sin robot) (En construcción)
-+ Actividades con Escornabot (En construcción)
++ [Actividades Unplugged](https://github.com/laescuelamaker/CoDices#actividades-unplugged-en-construcci%C3%B3n) (En construcción)
++ [Actividades con Escornabot](https://github.com/laescuelamaker/CoDices#actividades-con-escornabot-en-construcci%C3%B3n) (En construcción)
 
-+ Descarga y consejos de impresión
++ [Descarga y consejos de impresión](https://github.com/laescuelamaker/CoDices#descarga-y-consejos-de-impresi%C3%B3n)
 
 
 # Conoce los CoDices
