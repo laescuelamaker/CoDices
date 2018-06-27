@@ -100,3 +100,5 @@ Los alumnos pueden usar los dados para planificar los movimientos que realizará
 Para descargar los dados entra en el siguiente enlace de [Thingiverse](https://www.thingiverse.com/thing:2980268)
 
 Están impresos con una resolución de 0.15mm y un relleno del 100% para evitar que afecte en la aleatoriedad de las tiradas. No son necesarios soportes. Imprimir y Jugar :)
+
+![licencia](images/CC-BY-SA_icon.png)
